@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="crosssign.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#111111"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.68245282"
+     inkscape:cx="326.76251"
+     inkscape:cy="515.05392"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:snap-others="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-page="true"
+     inkscape:snap-global="true"
+     inkscape:snap-grids="false"
+     inkscape:snap-to-guides="false"
+     inkscape:object-nodes="true" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Слой 1"
+     id="layer1"
+     sodipodi:insensitive="true"
+     inkscape:groupmode="layer">
+    <g
+       id="g2295"
+       inkscape:label="X"
+       transform="matrix(1,0,0,-1,-4.1466762,298.80094)"
+       style="mix-blend-mode:normal">
+      <path
+         style="fill:none;stroke:#e62e3a;stroke-width:30;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:16;stroke-dasharray:none;stroke-opacity:1"
+         d="M 44.068576,208.87904 C 174.06857,78.879043 174.06857,78.879043 174.06857,78.879043"
+         id="path1385" />
+      <path
+         style="fill:none;stroke:#e62e3a;stroke-width:30;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:16;stroke-dasharray:none;stroke-opacity:1"
+         d="M 44.068576,78.879043 C 174.06857,208.87904 174.06857,208.87904 174.06857,208.87904"
+         id="path1387"
+         inkscape:label="\" />
+    </g>
+  </g>
+</svg>
