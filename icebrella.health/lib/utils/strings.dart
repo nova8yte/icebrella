@@ -15,6 +15,8 @@ class Translator {
 
   final IntlKeys _keys;
 
+  Map<String, dynamic> get mapKeys => _keys.mapKeys;
+
   IntlKeys get keys => _keys;
 
   static final Translator _instance = Translator._internal();
@@ -24,13 +26,17 @@ class Translator {
   }
 
   static IntlKeys readKeys() {
-    return IntlKeys(Map());
+    throw UnimplementedError();
+    return IntlKeys({
+      'app_name': AppStrings.appName,
+      'welcome_user': AppStrings.welcomeUser,
+    });
   }
 }
 
 extension TranslationExtension on String {
-  String countTr(int count) => '$tr ($count)';
-  // xaxa
-  String genderTr(Gender gender) =>
-      IntlKeySelector.gender(welcomeUser, keys, isMale).value;
+  String countTr(int count) =>
+      IntlKeys(Translator().mapKeys).count(this, count).value;
+  String genderTr(GenderSelector genderSelector) =>
+      IntlKeySelector.gender(this, Translator().mapKeys, genderSelector).value;
 }
